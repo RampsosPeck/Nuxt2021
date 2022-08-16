@@ -15,13 +15,17 @@
       <Blog title="Nuxt VUE" des="Nosotros aprehendemos VUE"
         img="https://render.fineartamerica.com/images/rendered/search/phone-case/iphone13/images/artworkimages/medium/1/the-dreamer-martine-roch.jpg?&targetx=0&targety=-200&imagewidth=988&imageheight=988&modelwidth=988&modelheight=564&backgroundcolor=28455B&orientation=1&producttype=iphone13"
       />
-
+      <Blog title="Nuxt REACT" des="Nosotros aprehendemos REACT"
+        img="https://render.fineartamerica.com/images/rendered/search/phone-case/iphone13/images-medium-5/hummingbird-of-watercolor-rainbow-olga-shvartsur.jpg?&targetx=0&targety=108&imagewidth=593&imageheight=771&modelwidth=564&modelheight=988&backgroundcolor=FFFFFF&orientation=0&producttype=iphone13"
+      />
     </div>
     <div class="portal_section">
-      <Portal title="Nuevo dpocumental" des="Casi por siempre terminado"/>
-      <Portal title="Nuevo dpocumental" des="Casi por siempre terminado"/>
-      <Portal title="Nuevo dpocumental" des="Casi por siempre terminado"/>
-      <Portal title="Nuevo dpocumental" des="Casi por siempre terminado"/>
+      <Portal title="Nuevo dpocumental" des="Casi por siempre terminado"
+        img="https://render.fineartamerica.com/images/rendered/search/phone-case/iphone13/images-medium-5/hummingbird-of-watercolor-rainbow-olga-shvartsur.jpg?&targetx=0&targety=108&imagewidth=593&imageheight=771&modelwidth=564&modelheight=988&backgroundcolor=FFFFFF&orientation=0&producttype=iphone13"
+      />
+      <Portal title="Nuevo dpocumental" des="Casi por siempre terminado"
+        img="https://images.fineartamerica.com/images/artworkimages/medium/1/all-you-need-is-love-balazs-solti.jpg"
+      />
     </div>
   </div>
 </template>
